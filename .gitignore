@@ -4,6 +4,7 @@
 .classpath
 .project
 .replit
-replit.next
-.upm/**
-target/**
+replit.xml
+.breakpoints
+.upm/
+target/
