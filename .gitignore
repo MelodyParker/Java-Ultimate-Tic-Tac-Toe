@@ -1,10 +1,10 @@
-*.class
-.git
-.settings
-.classpath
-.project
-.replit
-replit.xml
-.breakpoints
-.upm/
-target/
+# *.class
+# .git
+# .settings
+# .classpath
+# .project
+# .replit
+# replit.xml
+# .breakpoints
+# .upm/
+# target/
